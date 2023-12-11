@@ -1,0 +1,6 @@
+dist/
+res/
+filestore/
+*.tgz
+*.rst
+node_modules/
